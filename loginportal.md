@@ -1,5 +1,3 @@
-# login-portal
-created a login portal using html
 <!DOCTYPE html>
 <html lang="en">
 <head>
